@@ -6,7 +6,7 @@ Click :point_right: [HERE](https://watari-redesign.netlify.app/index.html) :poin
 
 Hello There! This is a re-design of the website [watari.ca](https://www.watari.ca/) a counselling and support services organization based out of Vancouver. In 2019, I collaborated with 4 other students across 4 time-zones to complete this project as the final requirement to graduate McMaster University's Web Development program. Please, keep in mind that this is a high-fidelity prototype and not all links will work as desired. 
 
-* *the original site has since been redisgned... just imagine your best  the content is the same.*
+* *the site has since been updated, screenshot of original homepage below vvv* 
 
 ## The Concept
 
@@ -14,15 +14,19 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 
 ## Contents
 
-- [Site Demo](https://github.com/anpospisil/watari#App-Demo)
+- [Original Design](https://github.com/anpospisil/watari#Original-Design)
+- [Re-design](https://github.com/anpospisil/watari#App-Demo)
 - [Technology Used](https://github.com/anpospisil/watari#technology-used)
 - [Goals of this project](https://github.com/anpospisil/watari#goals-of-this-project)
 - [User stories](https://github.com/anpospisil/watari#user-stories)
 - [Sketches](https://github.com/anpospisil/watari#wireframes)
 - [Wireframes](https://github.com/anpospisil/watari#wireframes)
 
+## Original Design
 
-## Site Demo
+<img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-old.png" alt="old site"  width="100%">
+
+## Site Re-design
 
 ### Navbar
 <img src="https://github.com/anpospisil/watari/blob/master/watari-project/05_navbar_structure_watari.jpg" alt="navbar"  width="100%">
