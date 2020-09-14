@@ -14,11 +14,11 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 
 ## Contents
 
-- [Site Demo](https://github.com/anpospisil/quick-bike-client#App-Demo)
-- [Technology Used](https://github.com/anpospisil/quick-bike-client#technology-used)
-- [Goals of this project](https://github.com/anpospisil/quick-bike-client#goals-of-this-project)
-- [User stories](https://github.com/anpospisil/quick-bike-client#user-stories)
-- [Sketches & Wireframes](https://github.com/anpospisil/quick-bike-client#wireframes-and-uml)
+- [Site Demo](https://github.com/anpospisil/watari#App-Demo)
+- [Technology Used](https://github.com/anpospisil/watari#technology-used)
+- [Goals of this project](https://github.com/anpospisil/watari#goals-of-this-project)
+- [User stories](https://github.com/anpospisil/watari#user-stories)
+- [Sketches & Wireframes](https://github.com/anpospisil/watari#wireframes)
 
 
 ## Site Demo
@@ -50,6 +50,6 @@ The goal of this project was to collaborate on a website re-design using UX desi
   - As an orgainzation, I would like to donate to Watari
   - As an individual, I would like to donate to Watari
 
-## Wireframes
+## Sketches & Wireframes
 
   - [Quick Bike Wireframes](https://balsamiq.cloud/sivxjco/p7hyx0j)
