@@ -34,7 +34,7 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 
 ## Goals of this project
 
-The goal of this project was to re-design a using UX design strategies and technologies learned over the course of the McMaster web dev program. More specifically:
+The goal of this project was to re-design a using UX design processes and coding languages learned over the course of the McMaster web dev program. More specifically:
 
 - Define User stories & KPIs
 - Perform several UX analyses such as: technical needs and competative
