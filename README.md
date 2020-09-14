@@ -1,4 +1,4 @@
-# WATARI <img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-logo.png" alt="logo" width="16">
+# WATARI <img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-logo.png" alt="logo" width="24">
 
 Click :point_right: [HERE](https://watari-redesign.netlify.app/index.html) :point_left: to check out the deployed version!
 
