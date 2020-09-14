@@ -20,9 +20,9 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 - [Git Workflow](https://github.com/anpospisil/quick-bike-client#git-workflow)
 - [Server Repo](https://github.com/anpospisil/quick-bike-server)
 
-## App Demo
+## Site Demo
 
-![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg)
+![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg | width=1000)
 ![signup](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/signup.png)
 ![login](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/login.png)
 ![user](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/user-profile.png)
