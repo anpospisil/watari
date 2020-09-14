@@ -57,4 +57,4 @@ The goal of this project was to re-design a using UX design processes and coding
 
 ## Sketches & Wireframes
 
-  - [Quick Bike Wireframes](https://balsamiq.cloud/sivxjco/p7hyx0j)
+  <img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari_sketches.pdf" alt="navbar"  width="100%">
