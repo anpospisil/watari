@@ -1,0 +1,115 @@
+<!--- footer.html -->
+<!-- FOOTER SECTION -->
+<!-- Footer -->
+<footer class="page-footer font-small unique-color-dark">
+
+<div>
+	<div class="container">
+
+		<!-- Grid row-->
+		<div class="row py-4 d-flex align-items-center">
+
+			<!-- Grid column -->
+			<div class="col-12 text-center text-md-left mb-4 mb-md-0">
+				<p class="mb-0 text-center">Watari is located on the unceded territories for the coast Salish People.</p>
+			</div>
+			<!-- Grid column -->
+
+		</div>
+		<!-- Grid row-->
+
+	</div>
+</div>
+
+<!-- Footer Links -->
+<div class="container text-center text-md-left mt-5">
+
+	<!-- Grid row -->
+	<div class="row mt-3">
+
+				 <!-- Grid column -->
+		<div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+			<!-- Links -->
+			<h6 class="text-uppercase font-weight-bold">Watari</h6>
+			<p>Watari Counselling & Support Services
+			<p>200-678 East HastingsStreet,
+			<p> Vancouver, B.C. V6A 1R1</p>
+			<p>info@watari.ca</p>
+			<p>604.254.6995</p>
+
+			<a class="nav-link d-inline py-1" href="https://www.facebook.com/WatariCounsellingandSupportServices/"><span class="fab fa-facebook-f"></span></a>
+			<a class="nav-link d-inline py-1" href="https://twitter.com/watarivancouver?lang=en"><span class="fab fa-twitter"></span></a>
+
+
+		</div>
+		<!-- Grid column -->
+
+		<!-- Grid column -->
+		<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+			<!-- Links -->
+			<h6 class="text-uppercase font-weight-bold">Connect</h6>
+			<p>
+				<a href="#!">Contact</a>
+			</p>
+			 <p>
+				<a href="#!">Help</a>
+			</p>
+
+		</div>
+		<!-- Grid column -->
+
+		<!-- Grid column -->
+		<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+			<!-- Links -->
+			<h6 class="text-uppercase font-weight-bold">Learn</h6>
+			<p>
+				<a href="#!">Download Assets</a>
+			</p>
+			<p>
+				<a href="#!">FAQs</a>
+			</p>
+
+		</div>
+		<!-- Grid column -->
+
+		<!-- Grid column -->
+		<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+			<!-- Links -->
+			<h6 class="text-uppercase font-weight-bold">More</h6>
+			<p>
+				<a href="#!">Careers</a>
+			</p>
+			<p>
+				<a href="#!">My Account</a>
+			</p>
+			<p>
+				<a href="http://andrewp2.sgedu.site/watari_site/cms/login/login.php">Admin Login</a>
+			</p>
+			<p>
+				<a href="#!">Privacy</a>
+			</p>
+			<p>
+				<a href="#!">Sitemap</a>
+			</p>
+
+		</div>
+		<!-- Grid column -->
+
+
+	</div>
+	<!-- Grid row -->
+
+</div>
+<!-- Footer Links -->
+
+<!-- Copyright -->
+<div class="footer-copyright text-center py-3">© 2019 Copyright: Watari Conselling &amp; Support Services
+</div>
+<!-- Copyright -->
+
+</footer>
+<!-- Footer CLOSE -->
