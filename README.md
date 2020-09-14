@@ -23,7 +23,7 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 
 ## Site Demo
 
-![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg?thumbnail)
+![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg | width=100)
 
 ## Technology Used
 
