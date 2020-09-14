@@ -16,84 +16,38 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 - [Technology Used](https://github.com/anpospisil/quick-bike-client#technology-used)
 - [Goals of this project](https://github.com/anpospisil/quick-bike-client#goals-of-this-project)
 - [User stories](https://github.com/anpospisil/quick-bike-client#user-stories)
-- [Wireframes & UML](https://github.com/anpospisil/quick-bike-client#wireframes-and-uml)
-- [Git Workflow](https://github.com/anpospisil/quick-bike-client#git-workflow)
-- [Server Repo](https://github.com/anpospisil/quick-bike-server)
+- [Sketches & Wireframes](https://github.com/anpospisil/quick-bike-client#wireframes-and-uml)
+
 
 ## Site Demo
 
-![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg | width=1000)
-![signup](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/signup.png)
-![login](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/login.png)
-![user](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/user-profile.png)
-![map](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/map.png)
-![tooltip](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/tooltips.png)
-![unlock](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/unlock.png)
-![lock](https://github.com/anpospisil/quick-bike-client/blob/development/attachments/lock.png)
-
-
-
+![home](https://github.com/anpospisil/watari/blob/master/watari-project/homepage_mockup_watari.jpg)
 
 ## Technology Used
 
-- [React](https://github.com/anpospisil/quick-bike-client/blob/master/src/pages/Bikes/index.tsx)
-- [Redux](https://github.com/anpospisil/quick-bike-client/tree/master/src/store)
-- [TypeScript](https://github.com/anpospisil/quick-bike-client/tree/master/src/types) ⭐️
-- [React-Google-Maps](https://github.com/anpospisil/quick-bike-client/blob/master/src/components/Map.tsx) ⭐️
-- [React Bootstrap](https://github.com/anpospisil/quick-bike-client/blob/master/src/pages/UserProfile/index.tsx)
-- [Express](https://github.com/anpospisil/quick-bike-server/blob/development/index.js)
-- [Sequelize](https://github.com/anpospisil/quick-bike-server/tree/development/models)
-- [PostgreSQL]()
-- [Nodemailer](https://github.com/anpospisil/quick-bike-server/blob/development/routers/reservation.js) ⭐️
-- [Balsamiq](https://balsamiq.cloud/sivxjco/p7hyx0j) 
-
-⭐️ New technologies learned during this project.
+- [HTML](https://github.com/anpospisil/watari/blob/master/index.html)
+- [CSS](https://github.com/anpospisil/watari/blob/master/styles/style.css)
+- [Bootstrap](https://github.com/anpospisil/watari/blob/master/about.html)
+- [PHP](https://github.com/anpospisil/watari/tree/master/cms/login)
 
 ## Goals of this project
 
-The goal of this project is to build a full-stack app using knowledge gained during the bootcamp and incorporating new technologies learned using official documentations and googling.
+The goal of this project was to collaborate on a website re-design using UX design strategies and new technologies learned over the course of the McMaster web dev program.
 
-- Practice full-stack development
-- Apply knowledge gained from the bootcamp
-- Learn and Apply new technology independently
-- Showcase development process through wireframes, user stories and UML
-- Practice proper commits & branching on github
+- Define User stories & KPIs
+- Perform several UX analyses such as: technical needs and competative
+- Follow UX/UI design processes by creating sketchs, wireframs, mock-ups, low-fidelity and high-fidelity prototypes
+- Practice web development using HTML, CSS, Bootstrap and PHP 
+- Practice asynchronous collaboration using Google drive/Hangouts
 
 ## User Stories
 
-  - As a person taking a day trip to a large city, I want to reserve a bike for the day.
-  - As a person who doesn’t memorize addresses, I would like to view available bikes on a map depending on the postal code I input, so I don’t have to spend a lot of time searching for bikes.
-  - As someone who loses things easily, I want a simple way to unlock/lock my Quick Bike from the App so I don’t have to fiddle with keys or locking mechanisms.
-  - As a person who values their privacy and security, I want to have a dedicated profile that requires login info so that only I can see my trip and payment info.
-  - As a cost-conscious user of Quick Bike, I want to see my invoices organized by week, month and year so I can budget accordingly and have a record for tax purposes.
-
-  This mvp is still a work in progress. Some features still need to be implemented and revised.
+  - As a person who suffers from substance abuse, I would like find support.
+  - As a teacher I would like to educate my students on the dangers of drug use.
+  - As the family memeber of someone who struggles with mental health I would like to find finantial and counselling resources for them.
+  - As an orgainzation, I would like to donate to Watari
+  - As an individual, I would like to donate to Watari
 
 ## Wireframes
 
   - [Quick Bike Wireframes](https://balsamiq.cloud/sivxjco/p7hyx0j)
-
-## Git Workflow
-
-In this project I try to:
-
-- Use descriptive commit messages
-- Name branches according to feature
-- Commit frequently
-- Push features to development rather than master
-
-👇 Click below links to view 👀 commit history for frontend & backend
-
-- [Frontend Features](https://github.com/anpospisil/quick-bike-client/branches/yours)
-- [Backend Features](https://github.com/anpospisil/quick-bike-server/branches)
-
-## How to Install this?
-
-- clone the app
-- cd into the project
-- Install dependencies using `npm install`
-- start development server using `npm run start`
-
-## Server Repo
-
-- The server side of this project is an Express server connected to a Sequelize database. [Click HERE](https://github.com/anpospisil/quick-bike-server) for more details.
