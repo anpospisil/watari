@@ -57,4 +57,4 @@ The goal of this project was to re-design a using UX design processes and coding
 
 ## Sketches & Wireframes
 
-  <img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari_sketches.pdf" alt="navbar"  width="100%">
+  <img src="https://github.com/anpospisil/watari/blob/master/watari-project/sketch.png" alt="sketch1"  width="40%">
