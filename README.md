@@ -66,4 +66,8 @@ The goal of this project was to re-design a using UX design processes and coding
 
 ### Homepage
 
-<img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-wireframe-home.pdf" alt="homepage wireframe"  width="40%">
+<img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-wireframe-home.png" alt="homepage wireframe"  width="40%">
+
+### About Page
+
+<img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-wireframe-about.png" alt="homepage wireframe"  width="40%">
