@@ -14,7 +14,7 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 
 ## Contents
 
-- [Original Design](https://github.com/anpospisil/watari#Original-Design)
+- [Old Design](https://github.com/anpospisil/watari#Original-Design)
 - [Re-design](https://github.com/anpospisil/watari#App-Demo)
 - [Technology Used](https://github.com/anpospisil/watari#technology-used)
 - [Goals of this project](https://github.com/anpospisil/watari#goals-of-this-project)
@@ -22,11 +22,11 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 - [Sketches](https://github.com/anpospisil/watari#wireframes)
 - [Wireframes](https://github.com/anpospisil/watari#wireframes)
 
-## Original Design
+## Old Design
 
 <img src="https://github.com/anpospisil/watari/blob/master/watari-project/watari-old.png" alt="old site"  width="100%">
 
-## Site Re-design
+## Re-design
 
 ### Navbar
 <img src="https://github.com/anpospisil/watari/blob/master/watari-project/05_navbar_structure_watari.jpg" alt="navbar"  width="100%">
