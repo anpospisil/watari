@@ -1,0 +1,37 @@
+[24-Jul-2019 18:25:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/andrewp3/public_html/watari_site/news.php on line 125
+[24-Jul-2019 18:27:20 CST6CDT] PHP Fatal error:  require(): Failed opening required 'start.php' (include_path='.:/usr/local/php71/pear') in /home/andrewp3/public_html/watari_site/news.php on line 114
+[24-Jul-2019 20:01:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumo() in /home/andrewp3/public_html/watari_site/news.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 128
+[24-Jul-2019 20:02:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumo() in /home/andrewp3/public_html/watari_site/news.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 128
+[24-Jul-2019 20:12:53 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/andrewp3/public_html/watari_site/news.php on line 125
+[24-Jul-2019 20:14:05 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/andrewp3/public_html/watari_site/news.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 120
+[24-Jul-2019 20:15:30 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/andrewp3/public_html/watari_site/news.php on line 120
+[24-Jul-2019 20:19:52 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/andrewp3/public_html/watari_site/news.php on line 120
+[24-Jul-2019 20:19:55 CST6CDT] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/andrewp3/public_html/watari_site/news.php on line 120
+[24-Jul-2019 20:24:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/andrewp3/public_html/watari_site/news.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 117
+[24-Jul-2019 20:26:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/andrewp3/public_html/watari_site/news.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 116
+[24-Jul-2019 20:26:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/andrewp3/public_html/watari_site/news.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 117
+[24-Jul-2019 20:27:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/andrewp3/public_html/watari_site/news.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/news.php on line 117
+[24-Jul-2019 20:34:38 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrewp3/public_html/watari_site/news.php on line 118
+[24-Jul-2019 20:35:29 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrewp3/public_html/watari_site/news.php on line 119
+[24-Jul-2019 20:35:34 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrewp3/public_html/watari_site/news.php on line 119

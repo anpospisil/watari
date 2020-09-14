@@ -1,0 +1,10 @@
+[23-Jul-2019 09:05:03 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'andrewp3_andrew'@'localhost' (using password: YES) in /home/andrewp3/public_html/watari_site/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/watari_site/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'andrewp3_andrew', 'Wildfire23')
+#1 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9
+[23-Jul-2019 09:06:21 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'andrewp3_andrew'@'localhost' (using password: YES) in /home/andrewp3/public_html/watari_site/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/watari_site/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'andrewp3_andrew', 'Watari19')
+#1 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9

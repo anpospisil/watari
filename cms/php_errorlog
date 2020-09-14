@@ -1,0 +1,22 @@
+[13-Jul-2019 17:23:21 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/andrewp3/public_html/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'root', 'Wildfire23')
+#1 /home/andrewp3/public_html/cms/index.php(2): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/cms/app/start.php on line 9
+[13-Jul-2019 17:25:54 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/andrewp3/public_html/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'root', 'Wildfire23')
+#1 /home/andrewp3/public_html/cms/index.php(2): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/cms/app/start.php on line 9
+[13-Jul-2019 18:01:45 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/andrewp3/public_html/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'root', 'Wildfire23')
+#1 /home/andrewp3/public_html/cms/index.php(2): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/cms/app/start.php on line 9
+[24-Jul-2019 13:50:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/index.php on line 7

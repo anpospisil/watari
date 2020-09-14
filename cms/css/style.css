@@ -1,0 +1,207 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-size: 1rem;
+}
+
+
+/* Colours */
+.text-yellow{
+	color: #F7D85B;
+}
+
+.text-red{
+	color: #E06851;
+}
+
+.text-purple{
+	color: #5C5D79;
+}
+
+.text-green{
+	color: #7DA673;
+}
+
+/* BUTTONS */
+.btn{
+	color: #fff;
+	border-radius: 15px;
+	font-weight: 500;
+	padding: 10px 20px;
+}
+
+.btn-yellow{
+	background-color: #F7D85B;
+}
+
+.btn-red{
+	background-color: #E06851;
+}
+
+.btn-red:hover{
+	background-color: none;
+	border: 4px solid #E06851,
+	color: #E06851;
+}
+
+.btn-purple{
+	background-color: #5C5D79;
+}
+
+.btn-green{
+	background-color: #7DA673;
+}
+
+/* BACKGROUND COLOURS */
+.bg-yellow{
+	background-color: #F7D85B;
+}
+
+.bg-red{
+	background-color: #E06851;
+}
+
+.bg-red:hover{
+	background-color: none;
+	border: 4px solid #E06851,
+	color: #E06851;
+}
+
+.bg-purple{
+	background-color: #5C5D79;
+}
+
+.bg-green{
+	background-color: #7DA673;
+}
+
+/* NAV */
+.navbar-brand img{
+	width: 200px;
+	height: auto;
+}
+
+.navbar-toggler-icon{
+	color: #000;
+}
+
+.nav-link{
+	color: #000;
+}
+
+.nav-link:hover{
+	color: #000;
+}
+
+.bold-nav-link{
+	font-weight: 500;
+}
+
+.phone-number-nav{
+	color: #7DA673;
+}
+
+.jumbotron{
+    height: 100vh;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.jumobotron-text-margin-top{
+	margin-top: 175px;
+}
+
+.home-jumbotron{
+	background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url("https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+    background-color: #E06851;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */ 
+}
+
+h1{
+	font-weight: 700;
+	font-size: calc(2em + 1vw);
+}
+
+h2{
+	font-weight: 500;
+	font-size: calc(2em + 1vw);
+}
+
+.stat-title{
+	font-weight: 500;
+	font-size: calc(3em + 1vw);
+}
+
+/* IMAGES */
+img{
+	width: 100%;
+}
+
+.album_photo {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.photo_link img {
+  position: absolute;
+  width: 100%; 
+  height: 100%;
+  object-fit: cover;
+  
+}
+
+.album_photo:after {
+  content: '';
+  display:inline-block;
+  vertical-align: top;
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
+}
+
+/* SECTIONS */
+#home-what-we-do{
+	background-color: #F7D85B;
+	background-image: url("../images/what-we-do-background.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */ 
+	height: 1000px;
+}
+
+#home-our-impact{
+  background-image: linear-gradient(to bottom right, #f5f5f5, #fff);
+}
+
+#home-help-us{
+  background-image: linear-gradient(to bottom right, #E0E0E0, #F5F5F5);
+}
+
+#home-news{
+  background-image: linear-gradient(to bottom right, #E06851, #E1745F);
+}
+
+#home-partners{
+  background-image: linear-gradient(to bottom right, #f5f5f5, #fff);
+}
+
+/*CARD STYLE*/
+.card-body{
+	padding: 30px 40px;
+}
+
+.news-feed-card{
+	height: 400px;
+}
+
+footer a{
+	color: #000;
+}
+
+footer a:hover{
+	color: #000;
+	text-decoration: none;
+}

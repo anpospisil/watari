@@ -1,0 +1,76 @@
+[23-Jul-2019 09:03:34 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'andrewp3_andrew'@'localhost' (using password: YES) in /home/andrewp3/public_html/watari_site/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/watari_site/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'andrewp3_andrew', 'Wildfire23')
+#1 /home/andrewp3/public_html/watari_site/cms/admin/list.php(3): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9
+[23-Jul-2019 09:04:04 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'andrewp3_andrew'@'localhost' (using password: YES) in /home/andrewp3/public_html/watari_site/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/watari_site/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'andrewp3_andrew', 'Wildfire23')
+#1 /home/andrewp3/public_html/watari_site/cms/admin/list.php(3): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9
+[23-Jul-2019 09:06:34 CST6CDT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'andrewp3_andrew'@'localhost' (using password: YES) in /home/andrewp3/public_html/watari_site/cms/app/start.php:9
+Stack trace:
+#0 /home/andrewp3/public_html/watari_site/cms/app/start.php(9): PDO->__construct('mysql:host=loca...', 'andrewp3_andrew', 'Watari19')
+#1 /home/andrewp3/public_html/watari_site/cms/admin/list.php(3): require('/home/andrewp3/...')
+#2 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9
+[23-Jul-2019 09:09:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'andrewp3_watari' (T_STRING), expecting ',' or ')' in /home/andrewp3/public_html/watari_site/cms/app/start.php on line 9
+[23-Jul-2019 16:05:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:20:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:21:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:21:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:31:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:37:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 10
+[23-Jul-2019 16:42:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 10
+[23-Jul-2019 16:42:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:44:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:46:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:52:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:52:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 9
+[23-Jul-2019 16:56:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 8
+[23-Jul-2019 17:05:10 CST6CDT] PHP Parse error:  syntax error, unexpected '"<img src='../images/staff-ima' (T_CONSTANT_ENCAPSED_STRING) in /home/andrewp3/public_html/watari_site/cms/app/views/admin/list.php on line 20
+[24-Jul-2019 13:16:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/andrewp3/public_html/watari_site/cms/admin/list.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/andrewp3/public_html/watari_site/cms/admin/list.php on line 8
