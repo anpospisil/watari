@@ -87,4 +87,4 @@ The goal of this project was to re-design a site using UX design processes and c
 
 ## Conclusion
 
-Working with the people at Watari was a humbling experience. It was inspiring to see how strong and dedicated they are towards helping those in need. I was very proud to be a part of their journey and to see the posivitve impact web development can have towards helping individuals and organizations reach their goals.
+Working with the people at Watari was a humbling experience. It was inspiring to see how strong and dedicated they are towards helping those in need. I was very proud to be a part of their journey and to see the positive impact web development can have towards helping individuals and organizations reach their goals.
