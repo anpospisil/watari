@@ -18,7 +18,8 @@ McMaster University and Watari Counselling & Support Services collaborated to al
 - [Technology Used](https://github.com/anpospisil/watari#technology-used)
 - [Goals of this project](https://github.com/anpospisil/watari#goals-of-this-project)
 - [User stories](https://github.com/anpospisil/watari#user-stories)
-- [Sketches & Wireframes](https://github.com/anpospisil/watari#wireframes)
+- [Sketches](https://github.com/anpospisil/watari#wireframes)
+- [Wireframes](https://github.com/anpospisil/watari#wireframes)
 
 
 ## Site Demo
@@ -55,8 +56,15 @@ The goal of this project was to re-design a using UX design processes and coding
   - As an orgainzation, I would like to donate to Watari
   - As an individual, I would like to donate to Watari
 
-## Sketches & Wireframes
+## Sketches 
 
   <img src="https://github.com/anpospisil/watari/blob/master/watari-project/sketch.png" alt="sketch1"  width="40%">
   <img src="https://github.com/anpospisil/watari/blob/master/watari-project/sketch2.png" alt="sketch2"  width="40%">
   <img src="https://github.com/anpospisil/watari/blob/master/watari-project/sketch3.png" alt="sketch3"  width="40%">
+  
+## Wireframes
+
+Homepage                   |  About
+:-------------------------:|:-------------------------:
+<img src="https://github.com/anpospisil/watari/blob/master/watari-project/WATARI WIREFRAME - HOME.pdf" alt="homepage wireframe"  width="40%">  |  <img src="https://github.com/anpospisil/watari/blob/master/watari-project/WATARI WIREFRAME About.pdf" alt="about page wireframe"  width="40%">
+
