@@ -4,7 +4,7 @@ Click :point_right: [HERE](https://watari-redesign.netlify.app/index.html) :poin
 
 ## Introduction
 
-Hello There! This is a re-design of the website [watari.ca](https://www.watari.ca/) a counselling and support services organization based out of Vancouver. In 2019, I collaborated with 4 other students across 4 time-zones to complete this project as the final requirement to graduate McMaster University's Web Development program. Please, keep in mind that this is a high-fidelity prototype, not all links will work as desired. 
+Hello There! This is a re-design of the website [watari.ca](https://www.watari.ca/) a counselling and support services organization based out of Vancouver. In 2019, I collaborated with 4 other students across 4 time-zones to complete this project as the final requirement to graduate McMaster University's Web Development program. Please, keep in mind that this is a high-fidelity prototype and not all links will work as desired. 
 
 *the original site has since been updated, but the content is the same.
 
