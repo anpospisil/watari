@@ -87,4 +87,4 @@ The goal of this project was to re-design a site using UX design processes and c
 
 ## Conclusion
 
-Our team met our goal of producing a high-fidelity prototype and scored in the 90% range for our design. Working with the people at Watari was a humbling experience. It was inspiring to see how strong and dedicated they are towards helping those in need. I was very proud to be a part of their journey and to see the positive impact web development can have towards helping individuals and organizations reach their goals.
+Our team met our goal of producing a high-fidelity prototype. Working with the people at Watari was a humbling experience. It was inspiring to see how dedicated they are towards helping those in need. I was proud to be a part of their journey and to see the positive impact web development can have in helping people reach their goals.
